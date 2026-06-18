@@ -15,78 +15,79 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there, I'm Kiran Maske 👋</h1>
+
 <p align="center">
-  <strong>Data Analyst | Data Science Enthusiast | Python Developer | Problem Solver</strong>
+  <strong>Data Analyst | Java Full Stack Developer | SQL Enthusiast | Problem Solver</strong>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kiranmaske043-netizen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  Passionate about transforming data into insights and building scalable web applications.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate Data Analyst and aspiring Data Scientist with a strong foundation in Python, SQL, Machine Learning, and Data Visualization. I enjoy transforming raw data into meaningful insights and building data-driven solutions.
+I'm a Computer Science graduate passionate about both Data Analytics and Full Stack Development. I enjoy analyzing data, building dashboards, developing web applications, and solving real-world business problems through technology.
 
-- 📊 Currently working on Data Analytics and Machine Learning projects
-- 🌱 Learning Advanced Machine Learning, Deep Learning, and MLOps
-- 💡 Interested in Data Science, AI, and Business Analytics
-- 🏆 Solving Data Analytics and Programming challenges
-- 📧 Reach me: your-email@example.com
+- 📊 Working on Data Analytics, Power BI, SQL, and Python projects
+- 💻 Building Full Stack Applications using Java, Spring Boot, and React
+- 🌱 Learning Advanced Analytics, Machine Learning, and Microservices
+- 🏆 Continuously improving DSA and Problem-Solving skills
+- 📈 Interested in Data-Driven Decision Making and Software Engineering
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
 ### Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Data Analysis & Visualization
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-0C4B8E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+### Data Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
-### Machine Learning
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+### Full Stack Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 
 ### Databases
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 Mutual Fund Analytics Platform
-- Built a full-stack analytics platform using AMFI and mfapi.in datasets.
-- Performed NAV analysis, SIP tracking, portfolio insights, and performance visualization.
-- Technologies: Python, Pandas, SQL, Power BI, FastAPI.
+- End-to-end analytics platform using AMFI and mfapi.in datasets.
+- Performed NAV analysis, SIP tracking, portfolio insights, and performance reporting.
+- Technologies: Python, SQL, Power BI, FastAPI.
 
-### 🏠 House Price Prediction
-- Developed a machine learning model to predict house prices.
-- Applied EDA, feature engineering, and regression techniques.
-- Technologies: Python, Scikit-learn, Pandas.
+### 📈 Sales Analytics Dashboard
+- Interactive dashboard to track KPIs, revenue trends, and customer insights.
+- Technologies: Power BI, Excel, SQL.
 
-### 📈 Data Analytics Dashboard
-- Created interactive dashboards for business insights and KPI tracking.
-- Technologies: Power BI, SQL, Excel.
+### 🛒 E-Commerce Web Application
+- Full Stack application with authentication and product management.
+- Technologies: Java, Spring Boot, React, MySQL.
+
+### 🎓 Student Management System
+- CRUD application with database integration.
+- Technologies: Java, Spring Boot, MySQL.
 
 ---
 
@@ -97,21 +98,18 @@ I am a passionate Data Analyst and aspiring Data Scientist with a strong foundat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmaske043-netizen&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmaske043-netizen&theme=tokyonight" />
-</p>
-
 ---
 
-## 🎯 Current Goals
+## 🎯 Career Goals
 
-- Master Data Science and Machine Learning
-- Build End-to-End Analytics Projects
-- Contribute to Open Source
-- Secure a Data Analyst / Data Scientist Role
+- Become a skilled Data Analyst and Software Developer
+- Build scalable data-driven applications
+- Master SQL, Python, Java, and Spring Boot
+- Contribute to Open Source Projects
+- Create impactful solutions using Data and Technology
 
 ---
 
 <p align="center">
-🌟 If you find my projects useful, don't forget to star my repositories!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
