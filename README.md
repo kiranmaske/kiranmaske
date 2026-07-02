@@ -1,161 +1,241 @@
-<!--
-**kiranmaske/kiranmaske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Kiran Maske</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi there, I'm Kiran Maske 👋</h1>
+<h3 align="center">
+Data Analyst • Java Full Stack Developer • AI & ML Enthusiast
+</h3>
 
 <p align="center">
-  <strong>Data Analyst | Java Full Stack Developer | SQL Enthusiast | Problem Solver</strong>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Java+Full+Stack+Developer;SQL+Enthusiast;Machine+Learning+Learner;Problem+Solver" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kiranmaske">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kiranmaske">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:kiranmaske043@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+<a href="https://github.com/kiranmaske">
+<img src="https://komarev.com/ghpvc/?username=kiranmaske&label=Profile+Views&color=blue&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/kiranmaske?tab=followers">
+<img src="https://img.shields.io/github/followers/kiranmaske?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I am a passionate Data Analyst and Java Full Stack Developer with a strong interest in transforming data into actionable insights and building scalable web applications. I enjoy solving real-world problems through technology, analytics, and software development.
+🎓 B.Tech Computer Science Engineering (AI & ML)
 
-- 📊 Working on Data Analytics, SQL, Python, Power BI, and Machine Learning projects
-- 💻 Building Full Stack Applications using Java, Spring Boot, React, and MySQL
-- 🌱 Learning Advanced Data Analytics, Microservices, and Cloud Technologies
-- 🏆 Practicing Data Structures and Algorithms
-- 📈 Interested in Data-Driven Decision Making and Software Engineering
-- 📫 Reach me at: **kiranmaske043@gmail.com**
+💼 Data Science & AI Intern @ RacksonsIT Developers Pvt. Ltd.
 
----
+💻 Passionate about
 
-## 🛠️ Tech Stack
+- Data Analytics
+- Java Full Stack Development
+- SQL
+- Machine Learning
+- Business Intelligence
 
-### 💻 Programming Languages
+🌱 Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+- Spring Boot
+- React
+- Advanced SQL
+- Power BI
+- Microservices
 
-### 📊 Data Analytics & Visualization
+🏆 Solving Data Structures & Algorithms daily.
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+📫 Email
 
-### 🤖 Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-</p>
-
-### 🌐 Full Stack Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+**kiranmaske043@gmail.com**
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Tech Stack
 
-### 📊 Mutual Fund Analytics Platform
-- Built a complete Mutual Fund Analytics Platform using AMFI and mfapi.in datasets.
-- Performed NAV analysis, SIP tracking, portfolio insights, and performance visualization.
-- Technologies: Python, Pandas, SQL, FastAPI, Power BI.
+### Languages
 
-### 📈 Sales Analytics Dashboard
-- Created interactive dashboards for business KPIs and trend analysis.
-- Used Power BI and SQL for data visualization and reporting.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 
-### 🛒 E-Commerce Web Application
-- Developed a full-stack e-commerce platform with authentication and product management.
-- Technologies: Java, Spring Boot, React, MySQL.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
-## 📊 GitHub Analytics
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+### Web Development
+
+HTML
+
+CSS
+
+React
+
+Spring Boot
+
+REST API
+
+Tailwind CSS
+
+---
+
+### Data Analytics
+
+Python
+
+Pandas
+
+NumPy
+
+Power BI
+
+Excel
+
+Matplotlib
+
+Seaborn
+
+Machine Learning
+
+---
+
+### Databases
+
+MySQL
+
+MongoDB
+
+PostgreSQL
+
+---
+
+### Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Jupyter Notebook
+
+Postman
+
+---
+
+# 📂 Featured Projects
+
+## 📊 Mutual Fund Analytics Platform
+
+✔ NAV Analysis
+
+✔ SIP Tracking
+
+✔ Portfolio Analytics
+
+✔ Power BI Dashboard
+
+**Tech:** Python • SQL • FastAPI • Power BI
+
+---
+
+## 📈 Sales Analytics Dashboard
+
+Interactive dashboard for business insights and KPI analysis.
+
+**Tech:** SQL • Power BI
+
+---
+
+## 🛒 E-Commerce Web Application
+
+Authentication
+
+Product Management
+
+Cart
+
+Order System
+
+**Tech:** Java • Spring Boot • React • MySQL
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranmaske&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmaske&layout=compact&theme=tokyonight" height="180"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiranmaske&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmaske&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmaske&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiranmaske&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🎯 Current Goals
-
-- Master Data Analytics and Business Intelligence
-- Become a Skilled Java Full Stack Developer
-- Build End-to-End Data-Driven Applications
-- Contribute to Open Source Projects
-- Continuously Improve Problem-Solving Skills
-
----
-
-## 🤝 Connect With Me
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/kiranmaske">
-    <img src="https://img.shields.io/badge/GitHub-kiranmaske-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/kiranmaske">
-    <img src="https://img.shields.io/badge/LinkedIn-Kiran_Maske-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:kiranmaske043@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kiranmaske043@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kiranmaske&theme=tokyonight&row=1&column=7"/>
+
 </p>
 
 ---
 
+# 📊 Contribution Graph
+
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiranmaske&theme=tokyo-night"/>
+
 </p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Crack a Product-Based Company
+
+✅ Master Java Full Stack Development
+
+✅ Become a Skilled Data Analyst
+
+✅ Solve 500+ DSA Problems
+
+✅ Contribute to Open Source
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/kiranmaske">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kiranmaske043@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/kiranmaske">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
