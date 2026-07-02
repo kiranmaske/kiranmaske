@@ -116,11 +116,6 @@ I am a passionate Data Analyst and Java Full Stack Developer with a strong inter
 - Developed a full-stack e-commerce platform with authentication and product management.
 - Technologies: Java, Spring Boot, React, MySQL.
 
-### 🎓 Student Management System
-- CRUD-based application for managing student records.
-- Technologies: Java, Spring Boot, MySQL.
-
----
 
 ## 📊 GitHub Analytics
 
