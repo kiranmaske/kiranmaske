@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kiran Maske</h1>
 
 <h3 align="center">
-Data Analyst • Java Full Stack Developer • AI & ML Enthusiast
+Data Analyst • Full Stack Developer • AI & ML Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Java+Full+Stack+Developer;SQL+Enthusiast;Machine+Learning+Learner;Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Full+Stack+Developer;SQL+Enthusiast;Machine+Learning+Learner;Problem+Solver" />
 </p>
 
 <p align="center">
