@@ -31,7 +31,7 @@ Data Analyst • Java Full Stack Developer • AI & ML Enthusiast
 💻 Passionate about
 
 - Data Analytics
-- Java Full Stack Development
+- Full Stack Development
 - SQL
 - Machine Learning
 - Business Intelligence
@@ -126,43 +126,44 @@ Postman
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-## 📊 Mutual Fund Analytics Platform
-
-✔ NAV Analysis
-
-✔ SIP Tracking
-
-✔ Portfolio Analytics
-
-✔ Power BI Dashboard
-
-**Tech:** Python • SQL • FastAPI • Power BI
+### 📊 Mutual Fund Analytics Platform
+- Developed a comprehensive Mutual Fund Analytics Platform using AMFI and mfapi.in datasets.
+- Performed NAV analysis, SIP tracking, portfolio performance analysis, and fund comparison.
+- Built interactive dashboards for investment insights and data visualization.
+- **Technologies:** Python, Pandas, SQL, FastAPI, Power BI.
 
 ---
 
-## 📈 Sales Analytics Dashboard
+### 🏠 House Price Prediction System
+- Built a machine learning model to predict house prices based on location, area, number of bedrooms, bathrooms, and other property features.
+- Performed data preprocessing, feature engineering, model training, and evaluation.
+- Improved prediction accuracy using regression algorithms and data analysis techniques.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib.
 
-Interactive dashboard for business insights and KPI analysis.
+---
 
-**Tech:** SQL • Power BI
+### 📈 Sales Analytics Dashboard
+- Designed an interactive Power BI dashboard to analyze sales performance and business KPIs.
+- Created SQL queries for data extraction, transformation, and reporting.
+- Visualized revenue trends, regional performance, and customer insights.
+- **Technologies:** Power BI, SQL, Excel.
 
 ---
 
-## 🛒 E-Commerce Web Application
-
-Authentication
-
-Product Management
-
-Cart
-
-Order System
-
-**Tech:** Java • Spring Boot • React • MySQL
+### 🎬 Netflix Data Analysis
+- Performed exploratory data analysis on the Netflix dataset to uncover trends in movies and TV shows.
+- Analyzed content distribution by country, genre, release year, ratings, and duration.
+- Created insightful visualizations to identify viewing and production patterns.
+- **Technologies:** Python, Pandas, Matplotlib, Seaborn.
 
 ---
+
+### 📱 QR Code Generator
+- Developed a Python-based QR Code Generator that creates QR codes for URLs, text, and contact information.
+- Implemented a simple and user-friendly interface for generating and saving QR codes.
+- **Technologies:** Python, qrcode, Pillow.
 
 # 📈 GitHub Stats
 
